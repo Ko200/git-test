@@ -1,1 +1,3 @@
-This is a test page for hacktober fest
+This is a test page for Hacktober Fest
+Welcome to Hacktober Fest sponsored by digital ocean.
+That is all about this
